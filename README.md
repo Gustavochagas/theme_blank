@@ -1,1 +1,1 @@
-# theme_blank
+# Theme blank for Wordpress
